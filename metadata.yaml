@@ -1,0 +1,31 @@
+_repo: Die-Wahlverwandtschaften_2403
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2403'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Love stories, German'
+- !lcc 'PT'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'German fiction -- 19th century'
+title: Die Wahlverwandtschaften
+url: http://www.gutenberg.org/ebooks/2403
