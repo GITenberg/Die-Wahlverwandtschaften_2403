@@ -1,5 +1,5 @@
 _repo: Die-Wahlverwandtschaften_2403
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Aristocracy (Social class) -- Fiction'
 - !lcsh 'Adultery -- Fiction'
 - !lcsh 'German fiction -- 19th century'
+- GITenberg
 title: Die Wahlverwandtschaften
 url: http://www.gutenberg.org/ebooks/2403
